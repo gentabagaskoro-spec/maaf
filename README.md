@@ -83,7 +83,7 @@
 <body>
 
     <div class="container" id="mainContent">
-        <h1 id="questionText">Aku mau main game boleh gak?</h1>
+        <h1 id="questionText">Aku Kalau aku salah maafin ya!!!</h1>
         <div id="pleadingEmoji">🥺</div>
         <div class="buttons" id="buttonsContainer">
             <button id="yesBtn">Yes</button>
